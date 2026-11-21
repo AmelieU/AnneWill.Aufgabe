@@ -1,0 +1,29 @@
+id,name,party,sector,country
+lk,Lars Klingbeil,SPD,Politik,Deutschland
+uvdl,Ursula von der Leyen,CDU,Politik,Deutschland
+nr,Norbert Röttgen,CDU,Politik,Deutschland
+sw,Sarah Wagenknecht,Linke,Politik,Deutschland
+cs,Constanze Stezenmüller,,Recht,Deutschland
+cl,Christian Lindner,FDP,Politik,Deutschland
+ks,Karl Schlögel,,Historik,Deutschland
+lm,Ljudmyla Melnyk,,Wissenschaft,Ukraine
+kd,Kristina Dunz,,Journalismus,Deutschland
+el,Eglis Levits,,Politik,Lettland
+ab,Annalena Baerbock,Gruenen,Politik,Deutschland
+ft,Frans Timmermans,,Politik,Niederlande
+am,Andrij Melnyk,,Dipolmatie,Ukraine
+agl,Alexander Graf Lambsdorff,FDP,Politik,Deutschland
+er,Egon Ramms,,Militär,Deutschland
+rh,Robert Habeck,Gruenen,Politk,Deutschland
+rk,Roderich Kiesewetter,CDU,Politik,Deutschland
+cm,Claudia Major,,Wissenschaft,Deutschland
+kp,Katja Petrowskaja,,Journalismus,Ukraine
+cdu,Christlich Demokratische Union,,Politik,Deutschland
+spd,Sozialdemokratische Partei Deutschlands,,Politik,Deutschland
+linke,Die Linke,,Politik,Deutschland
+fdp,Freie Demokratische Partei,,Politik,Deutschland
+gruenen,Die Grünen,,Politik,Deutschland
+500,Konflikt mit Putin,,,
+501,Krieg in Europa,,,
+502,Krieg gegen Ukraine,,,
+503,Angriff auf Ukraine,,,
